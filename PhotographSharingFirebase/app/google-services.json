@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714255924817",
+    "project_id": "potograph-sharing-app-7bfca",
+    "storage_bucket": "potograph-sharing-app-7bfca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714255924817:android:10c537c167c8f53cdb8270",
+        "android_client_info": {
+          "package_name": "com.ogulcank.photographsharingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714255924817-345r6t9d3cnoa4a1fl2e3n4f8uc5salu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-JVPxH94zdbWiRFsWxMITN2_Ea7qwOrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714255924817-345r6t9d3cnoa4a1fl2e3n4f8uc5salu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

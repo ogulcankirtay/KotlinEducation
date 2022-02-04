@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/emailText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="E-mail"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:textColor="#3173E6"
+        android:textAlignment="center"
+        ></TextView>
+
+    <ImageView
+        android:id="@+id/resim"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:src="@color/black"></ImageView>
+    <TextView
+        android:id="@+id/yorumtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="yorum yorum yorum yorum"
+        android:layout_margin="5dp"
+        android:textColor="#8E1007"
+        ></TextView>
+</LinearLayout>
